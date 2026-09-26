@@ -10,5 +10,23 @@
     "zh": "匿名化；去識別化處理",
     "example_en": "The company uses anonymization to reduce privacy risks when analyzing customer data.",
     "example_zh": "該公司透過匿名化處理，在分析客戶資料時降低隱私風險。"
+  },
+  "breach": {
+    "definition_en": "an act of breaking a rule, law, agreement, or duty",
+    "zh": "違反；違規行為",
+    "example_en": "The regulator investigated whether the company had committed a breach of the rules.",
+    "example_zh": "監管機構調查該公司是否有違反規定的行為。"
+  },
+  "sanction": {
+    "definition_en": "a penalty imposed for breaking a rule or law",
+    "zh": "制裁；處罰",
+    "example_en": "The organization could face a financial sanction if the violation is confirmed.",
+    "example_zh": "如果違規行為獲得確認，該組織可能面臨財務處罰。"
+  },
+  "appeal": {
+    "definition_en": "to formally ask for a legal or official decision to be reviewed and changed",
+    "zh": "上訴；申訴",
+    "example_en": "The company plans to appeal the decision after reviewing the written ruling.",
+    "example_zh": "該公司計畫在審閱書面裁決後提出上訴。"
   }
 }
