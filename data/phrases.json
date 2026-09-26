@@ -16,5 +16,17 @@
     "zh": "選擇退出；選擇不參與",
     "example_en": "Users can opt out of sharing their data for research purposes.",
     "example_zh": "使用者可以選擇不將自己的資料分享作研究用途。"
+  },
+  "due process": {
+    "definition_en": "a fair and established legal or official procedure for handling a case",
+    "zh": "正當程序；正當法律程序",
+    "example_en": "The investigation must follow due process before any final penalty is imposed.",
+    "example_zh": "在作出任何最終處罰之前，調查必須遵循正當程序。"
+  },
+  "on the table": {
+    "definition_en": "available to be considered, discussed, or chosen",
+    "zh": "可供考慮；仍是可能的選項",
+    "example_en": "Several solutions are still on the table as the two sides continue their discussions.",
+    "example_zh": "隨著雙方繼續討論，目前仍有數種解決方案可供考慮。"
   }
 }
