@@ -1,1 +1,14 @@
-{}
+{
+  "scrutiny": {
+    "definition_en": "careful and detailed examination of something",
+    "zh": "仔細審查；密切檢視",
+    "example_en": "The new system came under scrutiny after several security problems were reported.",
+    "example_zh": "在多起資安問題被通報後，這套新系統受到密切檢視。"
+  },
+  "anonymization": {
+    "definition_en": "the process of removing identifying information from data so it cannot easily be linked to a person",
+    "zh": "匿名化；去識別化處理",
+    "example_en": "The company uses anonymization to reduce privacy risks when analyzing customer data.",
+    "example_zh": "該公司透過匿名化處理，在分析客戶資料時降低隱私風險。"
+  }
+}
