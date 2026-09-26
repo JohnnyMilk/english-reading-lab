@@ -1,1 +1,20 @@
-{}
+{
+  "full scope": {
+    "definition_en": "the complete extent, range, or scale of something",
+    "zh": "完整範圍；全貌",
+    "example_en": "Investigators are still trying to determine the full scope of the incident.",
+    "example_zh": "調查人員仍在試圖釐清這起事件的完整範圍。"
+  },
+  "sift through": {
+    "definition_en": "to examine a large amount of information carefully in order to find what is useful or important",
+    "zh": "仔細篩查；逐一檢視",
+    "example_en": "The team sifted through thousands of records to identify the source of the error.",
+    "example_zh": "團隊仔細檢視數千筆紀錄，以找出錯誤的來源。"
+  },
+  "opt out": {
+    "definition_en": "to choose not to participate in or be included in something",
+    "zh": "選擇退出；選擇不參與",
+    "example_en": "Users can opt out of sharing their data for research purposes.",
+    "example_zh": "使用者可以選擇不將自己的資料分享作研究用途。"
+  }
+}
