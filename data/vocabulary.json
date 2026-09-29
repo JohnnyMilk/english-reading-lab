@@ -28,5 +28,23 @@
     "zh": "上訴；申訴",
     "example_en": "The company plans to appeal the decision after reviewing the written ruling.",
     "example_zh": "該公司計畫在審閱書面裁決後提出上訴。"
+  },
+  "foothold": {
+    "definition_en": "a secure starting position from which further progress can be made",
+    "zh": "立足點；初步穩固的地位",
+    "example_en": "The partnership gave the company a foothold in a rapidly growing market.",
+    "example_zh": "這項合作讓該公司在快速成長的市場中取得立足點。"
+  },
+  "emerging": {
+    "definition_en": "beginning to develop, grow, or become important",
+    "zh": "新興的；正在發展中的",
+    "example_en": "The company is investing heavily in emerging technologies.",
+    "example_zh": "該公司正大力投資新興科技。"
+  },
+  "roadmap": {
+    "definition_en": "a plan that shows the stages or direction for future development",
+    "zh": "發展藍圖；路線圖",
+    "example_en": "The team created a product roadmap for the next three years.",
+    "example_zh": "團隊制定了未來三年的產品發展藍圖。"
   }
 }
