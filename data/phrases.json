@@ -40,5 +40,17 @@
     "zh": "須經監管機關批准；以取得監管核准為條件",
     "example_en": "The acquisition is expected to close this year, subject to regulatory approval.",
     "example_zh": "這項收購預計今年完成，但仍須經監管機關批准。"
+  },
+  "take on": {
+    "definition_en": "to accept responsibility for or begin dealing with a task, challenge, or role",
+    "zh": "承擔；著手處理",
+    "example_en": "The new system can take on repetitive tasks while engineers focus on complex decisions.",
+    "example_zh": "新系統可以承擔重複性工作，讓工程師專注於複雜決策。"
+  },
+  "carry out": {
+    "definition_en": "to perform or complete a task, plan, or activity",
+    "zh": "執行；完成",
+    "example_en": "The team carried out a series of tests before releasing the product.",
+    "example_zh": "團隊在產品發布前執行了一系列測試。"
   }
 }
