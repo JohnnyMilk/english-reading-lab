@@ -1,50 +1,13 @@
 {
-  "scrutiny": {
-    "definition_en": "careful and detailed examination of something",
-    "zh": "仔細審查；密切檢視",
-    "example_en": "The new system came under scrutiny after several security problems were reported.",
-    "example_zh": "在多起資安問題被通報後，這套新系統受到密切檢視。"
-  },
-  "anonymization": {
-    "definition_en": "the process of removing identifying information from data so it cannot easily be linked to a person",
-    "zh": "匿名化；去識別化處理",
-    "example_en": "The company uses anonymization to reduce privacy risks when analyzing customer data.",
-    "example_zh": "該公司透過匿名化處理，在分析客戶資料時降低隱私風險。"
-  },
-  "breach": {
-    "definition_en": "an act of breaking a rule, law, agreement, or duty",
-    "zh": "違反；違規行為",
-    "example_en": "The regulator investigated whether the company had committed a breach of the rules.",
-    "example_zh": "監管機構調查該公司是否有違反規定的行為。"
-  },
-  "sanction": {
-    "definition_en": "a penalty imposed for breaking a rule or law",
-    "zh": "制裁；處罰",
-    "example_en": "The organization could face a financial sanction if the violation is confirmed.",
-    "example_zh": "如果違規行為獲得確認，該組織可能面臨財務處罰。"
-  },
-  "appeal": {
-    "definition_en": "to formally ask for a legal or official decision to be reviewed and changed",
-    "zh": "上訴；申訴",
-    "example_en": "The company plans to appeal the decision after reviewing the written ruling.",
-    "example_zh": "該公司計畫在審閱書面裁決後提出上訴。"
-  },
-  "foothold": {
-    "definition_en": "a secure starting position from which further progress can be made",
-    "zh": "立足點；初步穩固的地位",
-    "example_en": "The partnership gave the company a foothold in a rapidly growing market.",
-    "example_zh": "這項合作讓該公司在快速成長的市場中取得立足點。"
-  },
-  "emerging": {
-    "definition_en": "beginning to develop, grow, or become important",
-    "zh": "新興的；正在發展中的",
-    "example_en": "The company is investing heavily in emerging technologies.",
-    "example_zh": "該公司正大力投資新興科技。"
-  },
-  "roadmap": {
-    "definition_en": "a plan that shows the stages or direction for future development",
-    "zh": "發展藍圖；路線圖",
-    "example_en": "The team created a product roadmap for the next three years.",
-    "example_zh": "團隊制定了未來三年的產品發展藍圖。"
-  }
+  "scrutiny": {"definition_en":"careful and detailed examination of something","zh":"仔細審查；密切檢視","example_en":"The new system came under scrutiny after several security problems were reported.","example_zh":"在多起資安問題被通報後，這套新系統受到密切檢視。"},
+  "anonymization": {"definition_en":"the process of removing identifying information from data so it cannot easily be linked to a person","zh":"匿名化；去識別化處理","example_en":"The company uses anonymization to reduce privacy risks when analyzing customer data.","example_zh":"該公司透過匿名化處理，在分析客戶資料時降低隱私風險。"},
+  "breach": {"definition_en":"an act of breaking a rule, law, agreement, or duty","zh":"違反；違規行為","example_en":"The regulator investigated whether the company had committed a breach of the rules.","example_zh":"監管機構調查該公司是否有違反規定的行為。"},
+  "sanction": {"definition_en":"a penalty imposed for breaking a rule or law","zh":"制裁；處罰","example_en":"The organization could face a financial sanction if the violation is confirmed.","example_zh":"如果違規行為獲得確認，該組織可能面臨財務處罰。"},
+  "appeal": {"definition_en":"to formally ask for a legal or official decision to be reviewed and changed","zh":"上訴；申訴","example_en":"The company plans to appeal the decision after reviewing the written ruling.","example_zh":"該公司計畫在審閱書面裁決後提出上訴。"},
+  "foothold": {"definition_en":"a secure starting position from which further progress can be made","zh":"立足點；初步穩固的地位","example_en":"The partnership gave the company a foothold in a rapidly growing market.","example_zh":"這項合作讓該公司在快速成長的市場中取得立足點。"},
+  "emerging": {"definition_en":"beginning to develop, grow, or become important","zh":"新興的；正在發展中的","example_en":"The company is investing heavily in emerging technologies.","example_zh":"該公司正大力投資新興科技。"},
+  "roadmap": {"definition_en":"a plan that shows the stages or direction for future development","zh":"發展藍圖；路線圖","example_en":"The team created a product roadmap for the next three years.","example_zh":"團隊制定了未來三年的產品發展藍圖。"},
+  "trade-off": {"definition_en":"a situation in which gaining one benefit requires giving up another","zh":"權衡；取捨","example_en":"Engineers often face a trade-off between performance and energy consumption.","example_zh":"工程師經常需要在效能與能源消耗之間做出取捨。"},
+  "guardrail": {"definition_en":"a rule, limit, or safeguard designed to prevent harmful or unwanted outcomes","zh":"防護機制；限制措施","example_en":"The company added new guardrails to reduce the risk of unsafe AI behavior.","example_zh":"該公司加入新的防護機制，以降低 AI 出現不安全行為的風險。"},
+  "fidelity": {"definition_en":"the degree to which something accurately represents or reproduces the original or intended result","zh":"精確度；忠實度","example_en":"The simulation needs a high level of fidelity before engineers can rely on its results.","example_zh":"模擬必須具有高度精確度，工程師才能信賴其結果。"}
 }
