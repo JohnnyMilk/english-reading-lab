@@ -52,5 +52,23 @@
     "zh": "執行；完成",
     "example_en": "The team carried out a series of tests before releasing the product.",
     "example_zh": "團隊在產品發布前執行了一系列測試。"
+  },
+  "lift off": {
+    "definition_en": "to leave the ground and begin flight, especially for a rocket or spacecraft",
+    "zh": "升空；起飛",
+    "example_en": "The rocket lifted off on schedule despite cloudy weather.",
+    "example_zh": "儘管天候多雲，火箭仍按計畫升空。"
+  },
+  "set aside": {
+    "definition_en": "to deliberately put something aside or stop considering it for a particular purpose",
+    "zh": "擱置；暫時不考慮",
+    "example_en": "The team set aside its earlier concerns and focused on the new evidence.",
+    "example_zh": "團隊暫時擱置先前的疑慮，專注於新的證據。"
+  },
+  "make one's debut": {
+    "definition_en": "to make a first public appearance or take part in an activity for the first time",
+    "zh": "首次登場；初次亮相",
+    "example_en": "The young engineer made her debut as the project's lead presenter.",
+    "example_zh": "這位年輕工程師首次以專案主講人的身分登場。"
   }
 }
