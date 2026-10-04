@@ -76,5 +76,17 @@
     "zh": "韌性；復原力",
     "example_en": "The team showed remarkable resilience after the unexpected setback.",
     "example_zh": "團隊在遭遇意外挫折後展現了非凡的韌性。"
+  },
+  "autonomous": {
+    "definition_en": "able to operate or make decisions independently without direct human control",
+    "zh": "自主的；能獨立運作的",
+    "example_en": "The company is testing autonomous systems that can complete routine tasks with limited supervision.",
+    "example_zh": "該公司正在測試能在有限監督下完成例行任務的自主系統。"
+  },
+  "sandboxing": {
+    "definition_en": "a computing technique that keeps software in a separated environment",
+    "zh": "沙盒機制；隔離執行技術",
+    "example_en": "The operating system uses sandboxing to keep applications separated from one another.",
+    "example_zh": "作業系統使用沙盒機制，讓各個應用程式彼此隔離。"
   }
 }
