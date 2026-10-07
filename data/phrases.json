@@ -70,5 +70,17 @@
     "zh": "首次登場；初次亮相",
     "example_en": "The young engineer made her debut as the project's lead presenter.",
     "example_zh": "這位年輕工程師首次以專案主講人的身分登場。"
+  },
+  "reduce reliance on": {
+    "definition_en": "to become less dependent on someone or something",
+    "zh": "降低對……的依賴",
+    "example_en": "The company diversified its suppliers to reduce reliance on one region.",
+    "example_zh": "該公司將供應商多元化，以降低對單一地區的依賴。"
+  },
+  "driven by": {
+    "definition_en": "caused, influenced, or powered mainly by a particular factor",
+    "zh": "由……所推動；主要受……驅動",
+    "example_en": "The increase in sales was driven by strong overseas demand.",
+    "example_zh": "銷售成長主要由強勁的海外需求所推動。"
   }
 }
