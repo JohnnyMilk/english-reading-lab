@@ -88,5 +88,23 @@
     "zh": "沙盒機制；隔離執行技術",
     "example_en": "The operating system uses sandboxing to keep applications separated from one another.",
     "example_zh": "作業系統使用沙盒機制，讓各個應用程式彼此隔離。"
+  },
+  "outlook": {
+    "definition_en": "an expectation or forecast about what is likely to happen in the future",
+    "zh": "展望；前景；預測",
+    "example_en": "The company raised its revenue outlook after demand improved.",
+    "example_zh": "需求改善後，公司上調了營收展望。"
+  },
+  "milestone": {
+    "definition_en": "an important stage or achievement in the development of something",
+    "zh": "里程碑；重要階段",
+    "example_en": "Reaching one million users was an important milestone for the company.",
+    "example_zh": "達到一百萬名使用者是該公司的一個重要里程碑。"
+  },
+  "reliance": {
+    "definition_en": "the state of depending on someone or something",
+    "zh": "依賴；倚賴",
+    "example_en": "The manufacturer is trying to reduce its reliance on a single supplier.",
+    "example_zh": "這家製造商正試圖降低對單一供應商的依賴。"
   }
 }
