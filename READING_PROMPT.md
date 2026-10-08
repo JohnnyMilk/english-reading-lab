@@ -346,3 +346,23 @@ JSON 的唯一目的，是保存未來英文學習與 Widget 練習真正需要�
 **Learn first → Understand the context → Read the real English → Encounter the learned language in context → Review repeatedly.**
 
 重點不是蒐集艱澀單字，也不是追求每天新增的數量，而是長期累積真正有用、會再次遇到、值得記住的英文。
+
+
+---
+
+# Manual Vocabulary Mode — 使用者自行輸入
+
+除了每日新聞模式，也支援使用者在觀看英文影片、頻道或閱讀其他素材時，自行輸入不熟悉的英文單字、片語或完整句子。
+
+當使用者輸入英文並要求學習或收錄時，直接進行以下流程：
+
+1. 辨識輸入是 Vocabulary、Phrase 或完整句子。若是句子，找出值得學習的單字、固定搭配或片語；若不清楚使用者要學哪個部分，先簡短詢問。
+2. 提供自然的繁體中文意思、簡潔易懂的 English definition、另寫的自然英文例句及其繁體中文翻譯。
+3. 依既有分類原則判斷 Vocabulary 或 Phrase；不要把一般完整句子直接當作片語收錄。
+4. 讀取 GitHub 最新 `data/vocabulary.json` 與 `data/phrases.json`，跨資料庫檢查重複（包含大小寫、單複數、時態及明顯詞形變化）。
+5. 新項目使用既有四欄 Schema，Fetch → Check → Build → Merge → Update；保留所有舊資料，僅更新適當的 JSON。
+6. 回覆使用者翻譯、英英解釋、例句、類型，以及 GitHub 新增或因重複而略過的結果。
+
+**來源規則依模式區分：** 新聞模式的 Vocabulary / Phrase 必須實際出現在所選英文新聞原文；手動模式則必須來自使用者實際輸入的英文，不要求出現在新聞中。不得把與輸入無關的字詞擅自加入資料庫。
+
+兩種模式共用同一份 `vocabulary.json` 與 `phrases.json`，不增加來源欄位、影片資訊、新聞資訊或其他 metadata。手動模式不需要搜尋 2 篇英文新聞與 1 篇中文新聞，也不使用每日新聞的輸出順序。
