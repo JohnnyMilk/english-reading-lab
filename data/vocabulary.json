@@ -106,5 +106,23 @@
     "zh": "依賴；倚賴",
     "example_en": "The manufacturer is trying to reduce its reliance on a single supplier.",
     "example_zh": "這家製造商正試圖降低對單一供應商的依賴。"
+  },
+  "inventive": {
+    "definition_en": "showing creativity in producing new ideas, designs, or methods",
+    "zh": "富有創意的；有獨創性的",
+    "example_en": "The engineers proposed an inventive solution to reduce waste.",
+    "example_zh": "工程師提出一個富有創意的方案，以減少浪費。"
+  },
+  "blend": {
+    "definition_en": "to combine different things so that they work together as a whole",
+    "zh": "融合；混合",
+    "example_en": "The training program blends online lessons with hands-on practice.",
+    "example_zh": "這項訓練課程將線上教學與實作練習結合。"
+  },
+  "reimagine": {
+    "definition_en": "to think about or present something in a new and different way",
+    "zh": "重新構想；以新方式詮釋",
+    "example_en": "The design team reimagined the packaging to make it easier to recycle.",
+    "example_zh": "設計團隊重新構想包裝方式，使其更容易回收。"
   }
 }
