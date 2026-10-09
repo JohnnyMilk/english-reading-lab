@@ -82,5 +82,17 @@
     "zh": "由……所推動；主要受……驅動",
     "example_en": "The increase in sales was driven by strong overseas demand.",
     "example_zh": "銷售成長主要由強勁的海外需求所推動。"
+  },
+  "draw on": {
+    "definition_en": "to use knowledge, experience, or resources as a source of help or ideas",
+    "zh": "運用；借助",
+    "example_en": "We drew on customer feedback to improve the product.",
+    "example_zh": "我們運用客戶回饋來改善產品。"
+  },
+  "in one's own right": {
+    "definition_en": "because of one's own qualities or achievements, independently of a connection to someone or something else",
+    "zh": "憑自身實力；本身就值得認可",
+    "example_en": "The assistant manager became a respected leader in her own right.",
+    "example_zh": "這位副理憑自身能力成為備受尊敬的領導者。"
   }
 }
