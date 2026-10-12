@@ -94,5 +94,17 @@
     "zh": "憑自身實力；本身就值得認可",
     "example_en": "The assistant manager became a respected leader in her own right.",
     "example_zh": "這位副理憑自身能力成為備受尊敬的領導者。"
+  },
+  "at the expense of": {
+    "definition_en": "in a way that benefits one thing while harming or reducing another",
+    "zh": "以犧牲……為代價",
+    "example_en": "The company should not increase production at the expense of product quality.",
+    "example_zh": "公司不應以犧牲產品品質為代價來提高產量。"
+  },
+  "rule of law": {
+    "definition_en": "the principle that everyone, including governments and leaders, must obey the law",
+    "zh": "法治；法律至上原則",
+    "example_en": "A strong rule of law helps businesses operate in a fair and predictable environment.",
+    "example_zh": "健全的法治有助於企業在公平且可預測的環境中營運。"
   }
 }
