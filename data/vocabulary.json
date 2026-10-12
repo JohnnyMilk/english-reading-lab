@@ -124,5 +124,23 @@
     "zh": "重新構想；以新方式詮釋",
     "example_en": "The design team reimagined the packaging to make it easier to recycle.",
     "example_zh": "設計團隊重新構想包裝方式，使其更容易回收。"
+  },
+  "rebuke": {
+    "definition_en": "strong criticism or disapproval of someone's actions or behavior",
+    "zh": "嚴厲批評；斥責",
+    "example_en": "The regulator issued a sharp rebuke after the company ignored repeated warnings.",
+    "example_zh": "該公司多次忽視警告後，監管機關提出了嚴厲批評。"
+  },
+  "underpin": {
+    "definition_en": "to provide the basic support or foundation for something",
+    "zh": "支撐；構成……的基礎",
+    "example_en": "Reliable data underpins effective production planning.",
+    "example_zh": "可靠的數據是有效生產規劃的基礎。"
+  },
+  "accountable": {
+    "definition_en": "responsible for actions or decisions and expected to explain or justify them",
+    "zh": "須負責任的；須承擔責任的",
+    "example_en": "Managers should be held accountable for decisions that affect product safety.",
+    "example_zh": "主管應對影響產品安全的決策承擔責任。"
   }
 }
