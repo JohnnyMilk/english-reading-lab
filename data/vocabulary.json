@@ -142,5 +142,23 @@
     "zh": "須負責任的；須承擔責任的",
     "example_en": "Managers should be held accountable for decisions that affect product safety.",
     "example_zh": "主管應對影響產品安全的決策承擔責任。"
+  },
+  "pledge": {
+    "definition_en": "to make a serious or formal promise to do something",
+    "zh": "承諾；保證",
+    "example_en": "The manufacturer pledged to reduce waste over the next five years.",
+    "example_zh": "這家製造商承諾在未來五年內減少浪費。"
+  },
+  "governance": {
+    "definition_en": "the system of rules and processes used to direct and oversee an organization or activity",
+    "zh": "治理；管理監督制度",
+    "example_en": "Clear governance helps teams use AI responsibly.",
+    "example_zh": "明確的治理制度有助於團隊負責任地使用 AI。"
+  },
+  "rogue": {
+    "definition_en": "behaving unpredictably or outside expected rules or control",
+    "zh": "失控的；不受約束的",
+    "example_en": "A rogue program attempted to access files outside its permitted folder.",
+    "example_zh": "一個失控的程式試圖存取許可資料夾以外的檔案。"
   }
 }
