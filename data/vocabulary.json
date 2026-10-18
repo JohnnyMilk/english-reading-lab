@@ -178,5 +178,35 @@
     "zh": "正在進行中的；已經開始的",
     "example_en": "Construction is underway, and the new facility should open next year.",
     "example_zh": "工程正在進行中，新設施應該會在明年啟用。"
+  },
+  "transformative": {
+    "definition_en": "causing a major change in how something works or develops",
+    "zh": "具有變革性的；能帶來重大改變的",
+    "example_en": "AI could have a transformative impact on the manufacturing industry.",
+    "example_zh": "人工智慧可能對製造業產生變革性的影響。"
+  },
+  "disorienting": {
+    "definition_en": "making someone feel confused or unsure about what is happening",
+    "zh": "令人迷失方向的；令人困惑不安的",
+    "example_en": "The sudden changes in the company's strategy were disorienting for employees.",
+    "example_zh": "公司策略突然改變，讓員工感到困惑與無所適從。"
+  },
+  "force multiplier": {
+    "definition_en": "something that greatly increases the effectiveness or impact of existing resources or efforts",
+    "zh": "效能倍增工具；能放大既有能力的因素",
+    "example_en": "Automation can be a force multiplier for a small engineering team.",
+    "example_zh": "自動化能大幅提升小型工程團隊的工作效能。"
+  },
+  "premise": {
+    "definition_en": "an idea or assumption on which an argument, decision, or plan is based",
+    "zh": "前提；假設基礎",
+    "example_en": "Our investment plan is based on the premise that demand will continue to grow.",
+    "example_zh": "我們的投資計畫建立在需求將持續成長的假設前提上。"
+  },
+  "materialize": {
+    "definition_en": "to become real or actually happen, especially after being expected or planned",
+    "zh": "實現；成為現實",
+    "example_en": "The expected cost savings did not materialize during the first year.",
+    "example_zh": "預期的成本節省效益在第一年並未實現。"
   }
 }
