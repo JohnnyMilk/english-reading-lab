@@ -160,5 +160,23 @@
     "zh": "失控的；不受約束的",
     "example_en": "A rogue program attempted to access files outside its permitted folder.",
     "example_zh": "一個失控的程式試圖存取許可資料夾以外的檔案。"
+  },
+  "outlandish": {
+    "definition_en": "very strange or unusual, and difficult to believe",
+    "zh": "異乎尋常的；令人難以置信的",
+    "example_en": "The initial cost estimate sounded outlandish, but later research supported it.",
+    "example_zh": "最初的成本估算聽起來令人難以置信，但後續研究支持了這個估算。"
+  },
+  "livelihood": {
+    "definition_en": "the way a person earns money to support themselves and their family",
+    "zh": "生計；謀生方式",
+    "example_en": "The new policy could affect the livelihoods of thousands of farmers.",
+    "example_zh": "這項新政策可能影響數千名農民的生計。"
+  },
+  "underway": {
+    "definition_en": "already started and continuing",
+    "zh": "正在進行中的；已經開始的",
+    "example_en": "Construction is underway, and the new facility should open next year.",
+    "example_zh": "工程正在進行中，新設施應該會在明年啟用。"
   }
 }
