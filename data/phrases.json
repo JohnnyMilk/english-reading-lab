@@ -118,5 +118,17 @@
     "zh": "將長期存在；不會很快消失",
     "example_en": "Hybrid meetings are here to stay in many workplaces.",
     "example_zh": "混合式會議在許多職場將持續存在。"
+  },
+  "draw attention to": {
+    "definition_en": "to make people notice or think about something",
+    "zh": "引起對……的注意；讓人關注",
+    "example_en": "The report draws attention to gaps in the current safety rules.",
+    "example_zh": "這份報告讓人注意到現行安全規則中的漏洞。"
+  },
+  "in aggregate": {
+    "definition_en": "when considered as a total or as a whole",
+    "zh": "整體而言；合計來看",
+    "example_en": "In aggregate, the changes saved the company millions of dollars.",
+    "example_zh": "整體而言，這些改變為公司節省了數百萬美元。"
   }
 }
