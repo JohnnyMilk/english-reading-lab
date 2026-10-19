@@ -208,5 +208,23 @@
     "zh": "實現；成為現實",
     "example_en": "The expected cost savings did not materialize during the first year.",
     "example_zh": "預期的成本節省效益在第一年並未實現。"
+  },
+  "valuation": {
+    "definition_en": "an estimate of how much a company or asset is worth",
+    "zh": "估值；價值評估",
+    "example_en": "The startup's valuation increased after a new funding round.",
+    "example_zh": "這家新創公司在新一輪募資後，估值有所提高。"
+  },
+  "equity": {
+    "definition_en": "an ownership interest in a company, often represented by shares",
+    "zh": "股權；所有者權益",
+    "example_en": "Employees received equity as part of their compensation.",
+    "example_zh": "員工獲得股權作為薪酬的一部分。"
+  },
+  "disruption": {
+    "definition_en": "an event or change that interrupts normal activity or established ways of doing things",
+    "zh": "干擾；中斷；顛覆性變動",
+    "example_en": "The factory arranged backup suppliers to reduce disruption during shipping delays.",
+    "example_zh": "工廠安排了備援供應商，以減少運輸延誤造成的營運中斷。"
   }
 }
