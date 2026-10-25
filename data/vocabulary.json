@@ -226,5 +226,23 @@
     "zh": "干擾；中斷；顛覆性變動",
     "example_en": "The factory arranged backup suppliers to reduce disruption during shipping delays.",
     "example_zh": "工廠安排了備援供應商，以減少運輸延誤造成的營運中斷。"
+  },
+  "compliance": {
+    "definition_en": "the act of following laws, rules, standards, or official requirements",
+    "zh": "合規；遵循法規或規範",
+    "example_en": "The medical device manufacturer strengthened its compliance procedures before the external audit.",
+    "example_zh": "這家醫療器材製造商在外部稽核前加強了合規管理程序。"
+  },
+  "joint venture": {
+    "definition_en": "a business arrangement in which two or more companies work together on a project or establish a jointly owned business",
+    "zh": "合資企業；合資合作",
+    "example_en": "The two manufacturers established a joint venture to develop medical equipment.",
+    "example_zh": "這兩家製造商成立合資企業，共同開發醫療設備。"
+  },
+  "undermine": {
+    "definition_en": "to gradually weaken or damage something, such as confidence, effectiveness, or success",
+    "zh": "削弱；損害；逐漸破壞",
+    "example_en": "Repeated delivery delays could undermine customer confidence in the supplier.",
+    "example_zh": "反覆發生的交貨延誤可能削弱客戶對供應商的信心。"
   }
 }
