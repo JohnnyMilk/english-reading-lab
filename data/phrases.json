@@ -142,5 +142,17 @@
     "zh": "清楚說明；有條理地提出",
     "example_en": "The manager laid out the risks and next steps at the meeting.",
     "example_zh": "經理在會議中清楚說明風險與後續步驟。"
+  },
+  "crack down on": {
+    "definition_en": "to take strong action to stop or control something considered illegal, harmful, or unacceptable",
+    "zh": "嚴厲打擊；加強取締；強力管制",
+    "example_en": "The government cracked down on companies that violated environmental regulations.",
+    "example_zh": "政府嚴厲取締違反環保法規的企業。"
+  },
+  "turn to": {
+    "definition_en": "to seek help, support, products, or solutions from someone or something",
+    "zh": "轉向；求助於；尋求……的協助",
+    "example_en": "The purchasing department turned to alternative suppliers when the original supplier failed to deliver.",
+    "example_zh": "當原供應商無法交貨時，採購部門轉向其他供應商尋求協助。"
   }
 }
