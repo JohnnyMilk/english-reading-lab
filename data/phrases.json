@@ -154,5 +154,17 @@
     "zh": "轉向；求助於；尋求……的協助",
     "example_en": "The purchasing department turned to alternative suppliers when the original supplier failed to deliver.",
     "example_zh": "當原供應商無法交貨時，採購部門轉向其他供應商尋求協助。"
+  },
+  "ramp up": {
+    "definition_en": "to increase the amount, speed, or level of an activity gradually or quickly",
+    "zh": "提高；擴大（產量、活動或投入）",
+    "example_en": "The factory plans to ramp up production after validating the new equipment.",
+    "example_zh": "工廠計畫在新設備完成驗證後提高產量。"
+  },
+  "burn through": {
+    "definition_en": "to use up money, supplies, or other resources quickly",
+    "zh": "快速耗盡；大量消耗（資金或資源）",
+    "example_en": "Unexpected repairs caused the project to burn through its budget.",
+    "example_zh": "意外的維修支出使這項專案快速耗盡預算。"
   }
 }
