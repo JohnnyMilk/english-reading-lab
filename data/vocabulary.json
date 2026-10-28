@@ -244,5 +244,23 @@
     "zh": "削弱；損害；逐漸破壞",
     "example_en": "Repeated delivery delays could undermine customer confidence in the supplier.",
     "example_zh": "反覆發生的交貨延誤可能削弱客戶對供應商的信心。"
+  },
+  "setback": {
+    "definition_en": "a problem or delay that makes progress more difficult",
+    "zh": "挫折；阻礙進展的問題",
+    "example_en": "A supplier delay caused a temporary setback in the product launch.",
+    "example_zh": "供應商延誤造成產品上市進度暫時受阻。"
+  },
+  "constraint": {
+    "definition_en": "something that limits what can be done or achieved",
+    "zh": "限制因素；制約條件",
+    "example_en": "Limited storage space is a major constraint on inventory planning.",
+    "example_zh": "倉儲空間有限，是庫存規劃的一項主要限制因素。"
+  },
+  "backlog": {
+    "definition_en": "work or orders that have accumulated and are still waiting to be completed",
+    "zh": "積壓的工作；未完成訂單量",
+    "example_en": "The production team worked overtime to clear its backlog of orders.",
+    "example_zh": "生產團隊加班處理積壓的訂單。"
   }
 }
