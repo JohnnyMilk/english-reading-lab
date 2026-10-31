@@ -166,5 +166,17 @@
     "zh": "快速耗盡；大量消耗（資金或資源）",
     "example_en": "Unexpected repairs caused the project to burn through its budget.",
     "example_zh": "意外的維修支出使這項專案快速耗盡預算。"
+  },
+  "boil down to": {
+    "definition_en": "to have one main reason or essential point",
+    "zh": "歸根究柢是；可歸結為",
+    "example_en": "The delay boils down to a shortage of qualified technicians.",
+    "example_zh": "這次延誤歸根究柢是因為合格技術人員不足。"
+  },
+  "come under pressure": {
+    "definition_en": "to face increasing difficulties, criticism, or demands",
+    "zh": "承受壓力；面臨壓力",
+    "example_en": "Production schedules came under pressure when two suppliers missed their delivery dates.",
+    "example_zh": "兩家供應商未能如期交貨，使生產排程承受壓力。"
   }
 }
