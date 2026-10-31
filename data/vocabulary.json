@@ -262,5 +262,23 @@
     "zh": "積壓的工作；未完成訂單量",
     "example_en": "The production team worked overtime to clear its backlog of orders.",
     "example_zh": "生產團隊加班處理積壓的訂單。"
+  },
+  "headwind": {
+    "definition_en": "a problem or condition that makes progress or growth more difficult",
+    "zh": "阻力；不利因素",
+    "example_en": "Rising transport costs created headwinds for the factory's expansion plan.",
+    "example_zh": "運輸成本上升，對工廠的擴產計畫形成阻力。"
+  },
+  "bolster": {
+    "definition_en": "to strengthen or support something",
+    "zh": "強化；支持；提振",
+    "example_en": "The company added a second supplier to bolster supply chain resilience.",
+    "example_zh": "公司增加第二家供應商，以強化供應鏈韌性。"
+  },
+  "outflow": {
+    "definition_en": "money or resources leaving a business or account",
+    "zh": "現金流出；資金外流",
+    "example_en": "The finance team monitored cash outflows during the equipment upgrade.",
+    "example_zh": "財務團隊在設備升級期間監控現金流出。"
   }
 }
