@@ -178,5 +178,17 @@
     "zh": "承受壓力；面臨壓力",
     "example_en": "Production schedules came under pressure when two suppliers missed their delivery dates.",
     "example_zh": "兩家供應商未能如期交貨，使生產排程承受壓力。"
+  },
+  "double-edged sword": {
+    "definition_en": "something that has both advantages and disadvantages",
+    "zh": "雙面刃；有利也有弊的事物",
+    "example_en": "Rapid expansion can be a double-edged sword for a small manufacturer.",
+    "example_zh": "快速擴張對小型製造商而言可能是一把雙面刃。"
+  },
+  "get swept up in": {
+    "definition_en": "to become strongly involved in or carried away by an event, feeling, or activity",
+    "zh": "被捲入；受到氣氛或情緒影響",
+    "example_en": "Investors should avoid getting swept up in short-term market excitement.",
+    "example_zh": "投資人應避免被短期市場熱潮沖昏頭。"
   }
 }
