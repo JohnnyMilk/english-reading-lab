@@ -280,5 +280,23 @@
     "zh": "現金流出；資金外流",
     "example_en": "The finance team monitored cash outflows during the equipment upgrade.",
     "example_zh": "財務團隊在設備升級期間監控現金流出。"
+  },
+  "electorate": {
+    "definition_en": "all the people who are eligible to vote in an election",
+    "zh": "選民全體；選民群體",
+    "example_en": "The survey showed that the electorate was concerned about rising prices.",
+    "example_zh": "調查顯示，選民普遍擔心物價上漲。"
+  },
+  "turnout": {
+    "definition_en": "the number or proportion of people who attend an event or vote in an election",
+    "zh": "投票率；出席人數",
+    "example_en": "High voter turnout surprised analysts in the local election.",
+    "example_zh": "地方選舉的高投票率讓分析師感到意外。"
+  },
+  "veto": {
+    "definition_en": "the official power to reject a proposed law or decision",
+    "zh": "否決權；否決",
+    "example_en": "The president used his veto to block the proposed law.",
+    "example_zh": "總統行使否決權，阻止該項法案通過。"
   }
 }
