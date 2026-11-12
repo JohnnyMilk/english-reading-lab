@@ -298,5 +298,23 @@
     "zh": "否決權；否決",
     "example_en": "The president used his veto to block the proposed law.",
     "example_zh": "總統行使否決權，阻止該項法案通過。"
+  },
+  "allay": {
+    "definition_en": "to reduce or calm a fear, worry, or concern",
+    "zh": "減輕；平息（擔憂或恐懼）",
+    "example_en": "The supplier shared test results to allay the customer's concerns.",
+    "example_zh": "供應商提供測試結果，以減輕客戶的疑慮。"
+  },
+  "jitters": {
+    "definition_en": "feelings of nervousness or worry about what may happen",
+    "zh": "緊張不安；焦慮情緒",
+    "example_en": "Unexpected cost increases caused jitters among investors.",
+    "example_zh": "意外的成本上升引發投資人的不安。"
+  },
+  "prepayment": {
+    "definition_en": "money paid in advance before goods or services are delivered",
+    "zh": "預付款；預先支付的款項",
+    "example_en": "The customer made a prepayment before the equipment was shipped.",
+    "example_zh": "客戶在設備出貨前支付了預付款。"
   }
 }
