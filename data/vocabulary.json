@@ -316,5 +316,23 @@
     "zh": "預付款；預先支付的款項",
     "example_en": "The customer made a prepayment before the equipment was shipped.",
     "example_zh": "客戶在設備出貨前支付了預付款。"
+  },
+  "interim": {
+    "definition_en": "temporary and intended to last until a permanent arrangement is made",
+    "zh": "臨時的；過渡期間的",
+    "example_en": "An interim manager will oversee production until a new director is appointed.",
+    "example_zh": "在新主管任命之前，將由一位臨時經理負責監督生產。"
+  },
+  "retention": {
+    "definition_en": "the ability or act of keeping employees, customers, or something valuable",
+    "zh": "留任；留存",
+    "example_en": "Employee retention improved after the company introduced flexible working hours.",
+    "example_zh": "公司實施彈性工時後，員工留任情況有所改善。"
+  },
+  "insatiable": {
+    "definition_en": "so great that it cannot be satisfied",
+    "zh": "無法滿足的；需求極大的",
+    "example_en": "The market showed an insatiable demand for faster computing.",
+    "example_zh": "市場對更快速運算的需求似乎永無止境。"
   }
 }
