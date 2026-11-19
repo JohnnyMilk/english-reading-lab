@@ -202,5 +202,17 @@
     "zh": "焦點；關注的中心",
     "example_en": "Supplier reliability became the focal point of the management meeting.",
     "example_zh": "供應商可靠性成為管理會議的討論焦點。"
+  },
+  "at the helm": {
+    "definition_en": "in charge of an organization or activity",
+    "zh": "掌舵；負責領導",
+    "example_en": "The new director is at the helm of the factory's expansion project.",
+    "example_zh": "新任主管正負責領導工廠擴建專案。"
+  },
+  "beat estimates": {
+    "definition_en": "to achieve financial results higher than analysts or others had predicted",
+    "zh": "表現優於預估；超越市場預期",
+    "example_en": "The company beat estimates after strong demand lifted quarterly sales.",
+    "example_zh": "強勁需求推升季度銷售額，使公司表現優於市場預估。"
   }
 }
